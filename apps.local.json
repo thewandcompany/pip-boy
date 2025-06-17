@@ -1,0 +1,203 @@
+[
+  {
+    "id": "statsdisplay",
+    "name": "Stats Display",
+    "version": "2.4.0",
+    "description": "The SPECIAL/Skills/Perks menu for the Pip-Boy 3000 Mk V.",
+    "icon": "app.png",
+    "tags": "stats",
+    "type": "app",
+    "readme": "README.md",
+    "storage": [
+      { "name": "USER/statsdisplay.js", "url": "app.js" },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/actionboy.json",
+        "url": "StatsDisplay/PERKS/ALL/actionboy.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/actiongirl.json",
+        "url": "StatsDisplay/PERKS/ALL/actiongirl.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/blackwidow.json",
+        "url": "StatsDisplay/PERKS/ALL/blackwidow.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/cannibal.json",
+        "url": "StatsDisplay/PERKS/ALL/cannibal.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/cherchez.json",
+        "url": "StatsDisplay/PERKS/ALL/cherchez.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/childatheart.json",
+        "url": "StatsDisplay/PERKS/ALL/childatheart.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/comprehension.json",
+        "url": "StatsDisplay/PERKS/ALL/comprehension.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/computerwhiz.json",
+        "url": "StatsDisplay/PERKS/ALL/computerwhiz.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/confirmedbachelor.json",
+        "url": "StatsDisplay/PERKS/ALL/confirmedbachelor.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/educated.json",
+        "url": "StatsDisplay/PERKS/ALL/educated.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/entomologist.json",
+        "url": "StatsDisplay/PERKS/ALL/entomologist.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/fortunefinder.json",
+        "url": "StatsDisplay/PERKS/ALL/fortunefinder.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/foureyes.json",
+        "url": "StatsDisplay/PERKS/ALL/foureyes.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/friendofthenight.json",
+        "url": "StatsDisplay/PERKS/ALL/friendofthenight.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/heaveho.json",
+        "url": "StatsDisplay/PERKS/ALL/heaveho.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/hunter.json",
+        "url": "StatsDisplay/PERKS/ALL/hunter.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/intensetraining.json",
+        "url": "StatsDisplay/PERKS/ALL/intensetraining.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/ladykiller.json",
+        "url": "StatsDisplay/PERKS/ALL/ladykiller.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/missfortune.json",
+        "url": "StatsDisplay/PERKS/ALL/missfortune.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/mysteriousstranger.json",
+        "url": "StatsDisplay/PERKS/ALL/mysteriousstranger.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/radchild.json",
+        "url": "StatsDisplay/PERKS/ALL/radchild.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/rapidreload.json",
+        "url": "StatsDisplay/PERKS/ALL/rapidreload.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/retention.json",
+        "url": "StatsDisplay/PERKS/ALL/retention.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/runngun.json",
+        "url": "StatsDisplay/PERKS/ALL/runngun.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/stealthgirl.json",
+        "url": "StatsDisplay/PERKS/ALL/stealthgirl.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/swiftlearner.json",
+        "url": "StatsDisplay/PERKS/ALL/swiftlearner.json"
+      },
+      {
+        "name": "USER/StatsDisplay/PERKS/ALL/weaponhandling.json",
+        "url": "StatsDisplay/PERKS/ALL/weaponhandling.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/barter.json",
+        "url": "StatsDisplay/SKILLS/barter.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/energyweapons.json",
+        "url": "StatsDisplay/SKILLS/energyweapons.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/explosives.json",
+        "url": "StatsDisplay/SKILLS/explosives.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/guns.json",
+        "url": "StatsDisplay/SKILLS/guns.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/lockpicks.json",
+        "url": "StatsDisplay/SKILLS/lockpicks.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/medicine.json",
+        "url": "StatsDisplay/SKILLS/medicine.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/meleeweapons.json",
+        "url": "StatsDisplay/SKILLS/meleeweapons.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/repair.json",
+        "url": "StatsDisplay/SKILLS/repair.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/science.json",
+        "url": "StatsDisplay/SKILLS/science.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/sneak.json",
+        "url": "StatsDisplay/SKILLS/sneak.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/speech.json",
+        "url": "StatsDisplay/SKILLS/speech.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/survival.json",
+        "url": "StatsDisplay/SKILLS/survival.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SKILLS/unarmed.json",
+        "url": "StatsDisplay/SKILLS/unarmed.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SPECIAL/aStrength.json",
+        "url": "StatsDisplay/SPECIAL/aStrength.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SPECIAL/bPerception.json",
+        "url": "StatsDisplay/SPECIAL/bPerception.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SPECIAL/cEndurance.json",
+        "url": "StatsDisplay/SPECIAL/cEndurance.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SPECIAL/dCharisma.json",
+        "url": "StatsDisplay/SPECIAL/dCharisma.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SPECIAL/eIntelligence.json",
+        "url": "StatsDisplay/SPECIAL/eIntelligence.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SPECIAL/fAgility.json",
+        "url": "StatsDisplay/SPECIAL/fAgility.json"
+      },
+      {
+        "name": "USER/StatsDisplay/SPECIAL/gLuck.json",
+        "url": "StatsDisplay/SPECIAL/gLuck.json"
+      }
+    ]
+  }
+]
